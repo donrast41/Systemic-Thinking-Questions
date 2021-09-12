@@ -33,7 +33,8 @@ team systems thinking within this team?
 8. Is the team's communication more formal or informal? Could you please offer an example?
    * Formal coordination is top-down, articulated, documented management.
    * Informal coordination is more spontaneous, bottom-up coordination.
-It makes use of team members' information of where skills and assets are located within the firm, as well as team members' awareness of each other's responsibilities, to anticipate and address the needs of team members.
+
+> It makes use of team members' information of where skills and assets are located within the firm, as well as team members' awareness of each other's responsibilities, to anticipate and address the needs of team members.
 
 9. What is the team's plan for the future? What is the average time it takes for open action items to be delivered? This is not a measure of how far into the future the teams are actively thinking on a daily basis; rather, it is a measure of how far into the future the teams are actively thinking on a daily basis.
 10. How do you define systems thinking?
