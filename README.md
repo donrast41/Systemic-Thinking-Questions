@@ -4,8 +4,8 @@ Questions used for survey and interview
 ## Pilot Interview
 
 1. How would you amend or modify the following description of systems thinking if you were part of a software development team?
-   
-*“The ability to understand technical interdependencies in a system, the ability to understand social & psychological interdependencies in a system, 
+
+> *“The ability to understand technical interdependencies in a system, the ability to understand social & psychological interdependencies in a system, 
 the ability to think about feedback dynamics in a system, and the ability to understand multi-level enterprise dynamics.”*
 
 2. Have you ever been a part of a group that you would characterize as having systems thinking qualities? What actions were taken to encourage 
