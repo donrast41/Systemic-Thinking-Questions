@@ -43,3 +43,35 @@ team systems thinking within this team?
 13. What software development fields could be improved by understanding psychological and sociological aspects?
 14. What software engineering roles need to understand psychological and sociological aspects?
 15. What psychological and sociological systemic factors could be applied to software development?
+
+## Survey Questionaire
+
+> Background: This survey is in support of research exploring the role of organizational culture (software firm) in the existence and development of team-level systems thinking.
+
+1. (1,2,3) Demography
+2. In what field is your degree? (example: Computer Science, Physics etc.)
+3. How long have you been with this team? this company? the software industry?
+4. On how many similar projects have you worked in the past?
+5. On how many different teams (projects) do you currently contribute as a member?
+6. With what fraction of your current team members have you previously worked?
+    * No one
+    * Everyone
+7. With which THREE (3)of the following team roles do you personally identify on this team?
+    * Creative, unorthodox problem solver
+    * Good communicator finds team new opportunities, well-connected
+    * Coordinator clarifies team goals, facilitates decision making
+    * Performs well under pressure, tenacity to overcome obstacles, dynamic
+    * Strategic individual, carefully weighs options, good judgment
+    * Team player, diplomatic, builds consensus, avoids team friction
+    * Reliable, disciplined, gets things done, conservative, practical
+    * Detail-oriented, focused on completion, time/schedule conscious
+    * Specialist, narrow focus, technical focus
+8. In each of the following four statement pairs, please circle the statement with which you most identify.
+    
+    I form new ideas through discussion with others and relate well to people and things. | I form new ideas through internal monologue and relate well to concepts and abstract ideas.
+    I am interested in concrete ideas and prefer to interact with my surroundings.| I am imaginative and enjoy exploring future possibilities and gaining new insights.
+    I make decisions based on objective analysis and logic. | I make decisions based on my values, what feels right.
+    I plan far into the future, preferring to have life planned and orderly. | I am spontaneous, flexible with my plans, and don’t want to miss anything.
+
+
+
