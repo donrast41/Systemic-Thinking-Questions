@@ -197,7 +197,7 @@ How do you rate your system's thinking ability? (On a scale of 1-7 with 7 repres
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-***Special Thanks to Michael Michael Tang, Questionaries taken and modified from Collaborative Systemic Thinking, Caroline Marie Twomey Lamb***
+***Special Thanks to Michael Tang, Questionaries taken and modified from Collaborative Systemic Thinking, Caroline Marie Twomey Lamb***
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
