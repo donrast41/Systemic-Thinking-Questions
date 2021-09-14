@@ -195,8 +195,11 @@ Given the following definition of engineering systems thinking…
 
 How do you rate your system's thinking ability? (On a scale of 1-7 with 7 representing strong systems thinking)
 
+------------------------------------------------------------------------------------------------------------------------------------------------
 
 ***Special Thanks to Michael Michael Tang, Questionaries taken and modified from Collaborative Systemic Thinking, Caroline Marie Twomey Lamb***
+
+------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
