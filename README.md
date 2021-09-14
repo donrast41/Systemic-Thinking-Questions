@@ -68,7 +68,7 @@ team systems thinking within this team?
     * Specialist, narrow focus, technical focus
 8. In each of the following four statement pairs, please circle the statement with which you most identify.
     
-First Header | Second Header
+
 ------------ | -------------
 I form new ideas through discussion with others and relate well to people and things. | I form new ideas through internal monologue and relate well to concepts and abstract ideas.
 I am interested in concrete ideas and prefer to interact with my surroundings.| I am imaginative and enjoy exploring future possibilities and gaining new insights.
