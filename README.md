@@ -191,7 +191,7 @@ C) one of a rotating set of individuals | C) None
 
 Given the following definition of engineering systems thinking…
 
-> *Systems thinking is utilizing tools, models, processes, and different thinking styles to consider the componential, relational, contextual, and dynamic elements of the system of interest. 
+> *Systems thinking is utilizing tools, models, processes, and different thinking styles to consider the componential, relational, contextual, and dynamic elements of the system of interest.* 
 
 How do you rate your system's thinking ability? (On a scale of 1-7 with 7 representing strong systems thinking)
 
