@@ -166,7 +166,35 @@ Statement 1 | Statement 2
 If INDIVIDUAL decision making is more common, are most decisions made by..| If CONSENSUS decision making is more common, are decisions made…
 A) the same individual | A) when the supporting information is presented and with little or no time for discussion or reflection
 B) the team leader | B) after a period of reflection and discussion.
-C) one of a rotating set of individuals |
+C) one of a rotating set of individuals | C) None
+
+24. How aware are you of other team members’ design tasks?
+> Not Aware | | | Fully Aware
+
+25. How aware are you of other team members’ relevant expertise and knowledge?
+> Not Aware | | | Fully Aware
+
+26. Please rate your agreement with each of the following statements.(1-Strongly Disagree to 5-Strongly Agree)
+
+* I respect other team members’ technical knowledge and expertise 1 2 3 4 5
+* I trust other team members’ abilities to meet deadlines 1 2 3 4 5
+* I trust other team members to deliver high-quality work products 1 2 3 4 5
+* Team discussion stimulates the generation of good ideas 1 2 3 4 5
+* The team environment is fair and egalitarian 1 2 3 4 5
+* The team encourage critical questioning and analysis 1 2 3 4 5
+* The team is accepting of new ideas 1 2 3 4 5
+* The team has a clear and mutual goal 1 2 3 4 5
+* The team understands its purpose within the overall systems design 1 2 3 4 5
+* The team has a shared vision for meeting milestones and requirements 1 2 3 4 5
+
+27. Systems thinking is one of many recognized engineering skills. 
+
+Given the following definition of engineering systems thinking…
+
+> *Systems thinking is utilizing tools, models, processes, and different thinking styles to consider the componential, relational, contextual, and dynamic elements of the system of interest. 
+
+How do you rate your system's thinking ability? (On a scale of 1-7 with 7 representing strong systems thinking)
+
 
 
 
