@@ -82,7 +82,98 @@ I plan far into the future, preferring to have life planned and orderly. | I am 
 
 Training topic | included? | effectiveness?
 ------------ | ------------- | -------------
-Systemic thinking| |Low 1 2 3 4 5  high
-Team Development| |Low 1 2 3 4 5  high
-Technical Knowledge| |Low 1 2 3 4 5  high
+Systemic thinking| yes/no |Low 1 2 3 4 5  high
+Team Development| yes/no |Low 1 2 3 4 5  high
+Technical Knowledge| yes/no |Low 1 2 3 4 5  high
+
+10. Is your team collocated (same office space, building, campus)?
+    * Yes
+    * No
+If NO, please rate the impact on the team’s ability to communicate technical information.
+* Negative 
+* No Impact
+* Positive
+
+11. What tools and space (real or virtual) does the team use to communicate and interact?
+12. How do you most commonly interact with other team members?
+13. Place an ‘X’ on the line between the two options to indicate the relative frequency of the two interaction styles. E.g. an ‘X’ placed in the middle would indicate both types of interactions occur with equal frequency.
+
+* Do you interact one-on-one (face-to-face, telephone calls, IM) or in groups (team meeting, conference calls, WebX)?
+> 1-on-1 || Groups 
+
+
+* Do you interact in person or virtually (telephone calls, email, WebX)?
+> In Person || Virtual   
+
+* Are your interactions real-time or delayed response (e.g. email)?
+> Synchronous || Asynchronous
+
+14. Which of the following are most commonly used to communicate technical information within the team? (Choose Three)
+  * Verbal (written or spoken)
+  * Sketches
+  * Mathematical equations
+  * Part drawings
+  * Computer models (static)
+  * Scale models
+  * Computer models (dynamic)
+  * Prototyping
+
+15. Please rate each of the following aspects of the team environment (1-Poor to 5-Excellent)
+  * Project management Poor   1   2   3   4   5   Excellent
+  * Access to resources  Poor   1   2   3   4   5   Excellent
+  * Decision freedom      Poor   1   2   3   4   5   Excellent
+  * Realistic schedule for deliverables Poor   1   2   3   4   5   Excellent
+  * Individual incentives and recognition Poor   1   2   3   4   5   Excellent
+  * Team incentives and recognition Poor   1   2   3   4   5   Excellent 
+  * Interesting/challenging work Poor   1   2   3   4   5   Excellent
+  * Collaborative environment Poor   1   2   3   4   5   Excellent
+  * Organizational interest in the mission of team  Poor   1   2   3   4   5   Excellent
+
+16. Is teamwork valued within your team?
+> Not Valued   1   2   3   4   5   Highly Valued
+
+17. Is teamwork valued within your organization?
+> Not Valued   1   2   3   4   5   Highly Valued
+
+18. Do rewards and incentives promote individual or team-level accomplishment?
+> Individual | | | Team
+
+19. Does your organization have a standardized technical design process?
+  * Yes
+  * No
+  
+  If YES, to what extent do you, as an individual, comply with the standard process?
+  > Non-Compliance  1  2  3  4  5  Full Compliance
+
+20. How relevant and easy to use is the standard process? The standard process is relevant and useful in this program.
+> Disagree  1  2  3  4  5  Agree
+
+21. The standard process is easy to use and understand.
+> Disagree  1  2  3  4  5  Agree
+
+22. Did your team have the opportunity to tailor or modify the organization’s standard process to help better complete your tasks?
+* Yes
+* No
+
+If YES, to what extent was the standard process modified?
+> Minor Modifications | | | Major Modifications
+
+23. Are design decisions within the team more often made by an individual or team consensus?
+> Team consensus | | | Individual
+
+Statement 1 | Statement 2
+------------ | -------------
+If INDIVIDUAL decision making is more common, are most decisions made by..| If CONSENSUS decision making is more common, are decisions made…
+A) the same individual | A) when the supporting information is presented and with little or no time for discussion or reflection
+B) the team leader | B) after a period of reflection and discussion.
+C) one of a rotating set of individuals |
+
+
+
+
+
+
+
+
+
 
