@@ -81,7 +81,7 @@ I plan far into the future, preferring to have life planned and orderly. | I am 
 > If yes, which of the following topics did team training include? Was the training effective?
 
 Training topic | included? | effectiveness?
------------- | -------------
+------------ | ------------- | -------------
 Systemic thinking| |Low 1 2 3 4 5  high
 Team Development| |Low 1 2 3 4 5  high
 Technical Knowledge| |Low 1 2 3 4 5  high
