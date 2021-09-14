@@ -68,12 +68,21 @@ team systems thinking within this team?
     * Specialist, narrow focus, technical focus
 8. In each of the following four statement pairs, please circle the statement with which you most identify.
     
-
+Statement 1 | Statement 2
 ------------ | -------------
 I form new ideas through discussion with others and relate well to people and things. | I form new ideas through internal monologue and relate well to concepts and abstract ideas.
 I am interested in concrete ideas and prefer to interact with my surroundings.| I am imaginative and enjoy exploring future possibilities and gaining new insights.
 I make decisions based on objective analysis and logic. | I make decisions based on my values, what feels right.
 I plan far into the future, preferring to have life planned and orderly. | I am spontaneous, flexible with my plans, and don’t want to miss anything.
 
+9. Has your team received any kind of training as a team?
+  * Yes
+  * No
+> If yes, which of the following topics did team training include? Was the training effective?
 
+Training topic | included? | effectiveness?
+------------ | -------------
+Systemic thinking| |Low 1 2 3 4 5  high
+Team Development| |Low 1 2 3 4 5  high
+Technical Knowledge| |Low 1 2 3 4 5  high
 
