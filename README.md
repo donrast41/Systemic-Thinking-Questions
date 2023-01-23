@@ -11,7 +11,7 @@ the ability to think about feedback dynamics in a system, and the ability to und
 2. Have you ever been a part of a group that you would characterize as having systems thinking qualities? What actions were taken to encourage 
 team systems thinking within this team?
 
-3. What psychological and sociological systemic factors are present in the creation and application of systemic theory (as defined by you) to the software development team?
+3. What psychological and sociological systemic factors are present in the creation and application of systemic thinking (as defined by you) to the software development team?
 
 4. What function does the physical environment of the team have in systemic thinking?
 
